@@ -4,13 +4,10 @@
  font-family: Merri Weather;
 }
  
+body{background-image:url(imagens/papeldeparede.jpg);}
  
 .container{
  width:990px;
  margin: 250px auto 250px auto;
  padding: 5px;
-}
-
-.gif{
-    text-align: center;
 }
